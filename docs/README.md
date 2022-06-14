@@ -4,4 +4,4 @@
 
 [GLM](https://gquinche.github.io/biocompuUNAL/GLM.jl.html)
 
-Para revisar el github clickee abajo, con el código fuente de julia clickee abajo.
+Para revisar el github con el código para ejecutar de julia haga click abajo.
