@@ -1,1 +1,1 @@
-Two notebooks to show applications of optimization. 
+One notebook and several pdf explaining the problem that was attacked and the current limitations of the solutions.
